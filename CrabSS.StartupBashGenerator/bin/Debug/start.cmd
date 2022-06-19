@@ -1,0 +1,1 @@
+java -Xms1M -Xmx100M -jar  BungeeCord.jar

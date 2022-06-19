@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\CrabSS.AdditionalPlugin\CrabSS.StartupBashGenerator\bin\Debug\CrabSS.StartupBashGenerator.exe.config
+C:\Users\Administrator\source\repos\CrabSS.AdditionalPlugin\CrabSS.StartupBashGenerator\bin\Debug\CrabSS.StartupBashGenerator.exe
+C:\Users\Administrator\source\repos\CrabSS.AdditionalPlugin\CrabSS.StartupBashGenerator\bin\Debug\CrabSS.StartupBashGenerator.pdb
+C:\Users\Administrator\source\repos\CrabSS.AdditionalPlugin\CrabSS.StartupBashGenerator\obj\Debug\CrabSS.StartupBashGenerator.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CrabSS.AdditionalPlugin\CrabSS.StartupBashGenerator\obj\Debug\CrabSS.StartupBashGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\CrabSS.AdditionalPlugin\CrabSS.StartupBashGenerator\obj\Debug\CrabSS.StartupBashGenerator.Form1.resources
+C:\Users\Administrator\source\repos\CrabSS.AdditionalPlugin\CrabSS.StartupBashGenerator\obj\Debug\CrabSS.StartupBashGenerator.Properties.Resources.resources
+C:\Users\Administrator\source\repos\CrabSS.AdditionalPlugin\CrabSS.StartupBashGenerator\obj\Debug\CrabSS.StartupBashGenerator.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\CrabSS.AdditionalPlugin\CrabSS.StartupBashGenerator\obj\Debug\CrabSS.StartupBashGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CrabSS.AdditionalPlugin\CrabSS.StartupBashGenerator\obj\Debug\CrabSS.StartupBashGenerator.exe
+C:\Users\Administrator\source\repos\CrabSS.AdditionalPlugin\CrabSS.StartupBashGenerator\obj\Debug\CrabSS.StartupBashGenerator.pdb
